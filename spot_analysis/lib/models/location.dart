@@ -24,7 +24,7 @@ class Location {
       ]),
       Location(3, 'Barcelona', 'assets/images/barcelona.jpg', [
         LocationFact('Summary',
-            'Amazing cultural hub. Delicious fiid and tons to do for most any interest.'),
+            'Amazing cultural hub. Delicious food and tons to do for most any interest.'),
         LocationFact('How to Get There',
             'Fly into the barcelona airport and there is public transportation or taxis to get to the main city.'),
       ]),
